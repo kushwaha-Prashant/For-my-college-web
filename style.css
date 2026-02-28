@@ -2,7 +2,7 @@
             background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
         }
         .hero-section {
-            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1562774053-701939374585?w=1200');
+            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("breadcrumb.jpg");
             background-size: cover;
             background-position: center;
             padding: 200px 0 100px;
@@ -81,4 +81,5 @@
         }
         .footer a:hover {
             color: #ffc107;
+
         }
