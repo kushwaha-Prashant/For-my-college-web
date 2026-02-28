@@ -1,0 +1,84 @@
+       .navbar {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+        }
+        .hero-section {
+            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1562774053-701939374585?w=1200');
+            background-size: cover;
+            background-position: center;
+            padding: 200px 0 100px;
+        }
+		.second-cover-images
+		{
+			width:100%;
+			background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6));
+			background-size: cover;
+            background-position: center;
+            padding: 200px 0 100px;
+		}
+        .section-padding {
+            padding: 80px 0;
+        }
+        .section-title {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .section-title h2 {
+            color: #1e3c72;
+            font-weight: 700;
+        }
+        .section-title .line {
+            width: 80px;
+            height: 4px;
+            background: #ffc107;
+            margin: 15px auto;
+        }
+        .course-card {
+            transition: all 0.3s;
+            border: none;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        .course-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+        }
+        .course-icon {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 20px;
+            font-size: 32px;
+            color: white;
+        }
+        .stats-section {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            padding: 60px 0;
+        }
+        .stat-item {
+            text-align: center;
+            color: white;
+        }
+        .stat-item h2 {
+            font-size: 48px;
+            font-weight: 700;
+            color: #ffc107;
+        }
+        .footer {
+            background: #1a1a1a;
+            color: white;
+            padding: 50px 0 20px;
+        }
+        .footer h5 {
+            color: #ffc107;
+            margin-bottom: 20px;
+        }
+        .footer a {
+            color: white;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            color: #ffc107;
+        }
